@@ -22,5 +22,5 @@ Engagierter **Full-Stack Developer** und **Software Engineer** mit umfassender E
 
 **Interesse an Zusammenarbeit**  
 Ich freue mich über Anfragen oder Kooperationen! Kontaktiere mich gerne über diese Kanäle:
-  - [Email](mailto:daniel@danielnetworkcenter.eu).
+  - [Email](mailto:daniel@danielnetworkcenter.eu)
   - [Discord](http://discord.danielnetworkcenter.eu)
