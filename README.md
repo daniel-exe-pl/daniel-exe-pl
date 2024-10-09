@@ -1,7 +1,7 @@
 # daniel-exe.pl  
 🌐 **Full-Stack Developer & Software Engineer**
 
-**Profil**  
+## Profil
 Engagierter **Full-Stack Developer** und **Software Engineer** mit umfassender Erfahrung in der Entwicklung moderner Softwarelösungen. Leidenschaft für die Schaffung effizienter, skalierbarer Systeme und strukturiertes Projektmanagement, um hochwertige Ergebnisse zu erzielen.
 
 **Kompetenzen**  
@@ -20,7 +20,7 @@ Engagierter **Full-Stack Developer** und **Software Engineer** mit umfassender E
   - Kombination von Realismus und Kreativität durch modernste Technologien.  
   - [LSR Repo](https://github.com/LifeSyncRoleplay) 
 
-**Interesse an Zusammenarbeit**  
+**Interesse an einer Zusammenarbeit?**  
 Ich freue mich über Anfragen oder Kooperationen! Kontaktiere mich gerne über diese Kanäle:
   - [Email](mailto:daniel@danielnetworkcenter.eu)
   - [Discord](http://discord.danielnetworkcenter.eu)
