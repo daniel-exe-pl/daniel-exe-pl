@@ -3,7 +3,7 @@
 
 ---
 
-**Profil**
+**Profil** 
 Engagierter **Full-Stack Developer** und **Software Engineer** mit umfassender Erfahrung in der Entwicklung moderner Softwarelösungen. Leidenschaft für die Schaffung effizienter, skalierbarer Systeme und strukturiertes Projektmanagement, um hochwertige Ergebnisse zu erzielen.
 
 **Kompetenzen**  
