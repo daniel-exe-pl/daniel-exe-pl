@@ -18,7 +18,7 @@ Engagierter **Full-Stack Developer** und **Software Engineer** mit umfassender E
 - **LifeSync Roleplay (LSR)**:  
   - Entwicklung eines Roleplay-Servers für GTA 6, der immersive und faire Spielerlebnisse bietet.  
   - Kombination von Realismus und Kreativität durch modernste Technologien.  
-  - [LSR Repo](https://github.com/LifeSyncRoleplay))  
+  - [LSR Repo](https://github.com/LifeSyncRoleplay) 
 
 **Interesse an Zusammenarbeit**  
 Ich freue mich über Anfragen oder Kooperationen! Kontaktiere mich gerne über diese Kanäle:
