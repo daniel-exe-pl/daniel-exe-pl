@@ -30,7 +30,7 @@ Engagierter **Full-Stack Developer** und **Software Engineer** mit umfassender E
 
 **` 🛠️ ` Technologien und Tools:**
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://danielnetworkcenter.eu">
     <img src="https://skillicons.dev/icons?i=git,bash,blender,cpp,css,debian,discord,bots,figma,github,html,idea,java,js,lua,mysql,notion,pycharm,py,unreal,visualstudio,vscode,windows,wordpress" />
   </a>
 </p>
