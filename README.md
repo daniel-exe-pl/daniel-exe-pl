@@ -3,19 +3,19 @@
 
 ---
 
-**` 👨‍💻 ` Profil**  
-Engagierter **Full-Stack Developer** und **Software Engineer** mit umfassender Erfahrung in der Entwicklung moderner Softwarelösungen. Leidenschaft für die Schaffung effizienter, skalierbarer Systeme und strukturiertes Projektmanagement, um hochwertige Ergebnisse zu erzielen.
+### ` 👨‍💻 ` Profil
+Engagierter **Full-Stack Developer** und **Software Engineer** mit Erfahrung in der Entwicklung.
 
 ---
 
-**` 🚀 ` Kompetenzen**  
+### ` 🚀 ` Kompetenzen
 - **Web- & Softwareentwicklung**: Umfangreiche Erfahrung mit Backend- und Frontend-Technologien.
 - **Projektmanagement**: Effiziente Planung und Umsetzung von Projekten in agilen Teams.
 - **Technologisches Verständnis**: Fundiertes Wissen über die Integration neuer Technologien und innovativer Ansätze.
 
 ---
 
-**` 🛠️ ` Aktuelle Projekte**  
+### ` 🛠️ ` Aktuelle Projekte
 - **DANIEL NETWORK CENTER (DNC)**  
   - Leitung einer Plattform zur Verwaltung und Entwicklung diverser Softwareprojekte.  
   - Ziel ist die Transformation zu einer eigenständigen Firma mit Fokus auf kreative, maßgeschneiderte Lösungen.  
@@ -24,20 +24,55 @@ Engagierter **Full-Stack Developer** und **Software Engineer** mit umfassender E
 - **LifeSync Roleplay (LSR)**  
   - Entwicklung eines GTA 6 Roleplay-Servers für immersive und faire Spielerlebnisse.  
   - Einsatz moderner Technologien zur Kombination von Realismus und Kreativität.  
-  - ` 🎮 ` [LifeSync Roleplay Repository](https://github.com/LifeSyncRoleplay)
+  - ` 📂 ` [LifeSync Roleplay Repository](https://github.com/LifeSyncRoleplay)
 
 ---
 
-**` 🛠️ ` Technologien und Tools:**
-<p align="center">
-  <a href="https://danielnetworkcenter.eu">
-    <img src="https://skillicons.dev/icons?i=git,bash,blender,cpp,css,debian,discord,bots,figma,github,html,idea,java,js,lua,mysql,notion,pycharm,py,unreal,visualstudio,vscode,windows,wordpress" />
-  </a>
-</p>
+### ` 🛠️ ` Technologien und Tools:
+
+**3D und Design**
+
+![Blender](https://skillicons.dev/icons?i=blender,figma)
+
+**Programmiersprachen**
+
+![Logo](https://skillicons.dev/icons?i=cpp,css,html,java,js,lua,py)
+
+**Frameworks und Libraries**
+
+![Logo](https://skillicons.dev/icons?i=react,flutter,nodejs,discordjs,bots,fastapi)
+
+**Datenbanken**
+
+![Logo](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)
+
+**Entwicklungs-Tools**
+
+![Logo](https://skillicons.dev/icons?i=git,bash,npm,visualstudio,vscode,pycharm,idea)
+
+**Betriebssysteme und Plattformen**
+
+![Logo](https://skillicons.dev/icons?i=debian,windows)
+
+**Web- und CMS-Tools**
+
+![Logo](https://skillicons.dev/icons?i=wordpress)
+
+**Projekt- und Wissensmanagement**
+
+![Logo](https://skillicons.dev/icons?i=notion,stackoverflow)
+
+**Spezifische Plattformen**
+
+![Logo](https://skillicons.dev/icons?i=github,discord)
+
+**Game Engines**
+
+![Logo](https://skillicons.dev/icons?i=unreal)
 
 ---
 
-**` 🤝 ` Interesse an einer Zusammenarbeit?**  
+### ` 🤝 ` Interesse an einer Zusammenarbeit?
 Ich freue mich auf Anfragen oder Kooperationen!  
 Du kannst mich über diese Kanäle erreichen:  
 - ` 📧 ` [Email](mailto:daniel@danielnetworkcenter.eu)  
