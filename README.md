@@ -52,7 +52,7 @@ Engagierter **Full-Stack Developer** und **Software Engineer** mit Erfahrung in 
 
 **Betriebssysteme und Plattformen**
 
-![Logo](https://skillicons.dev/icons?i=debian,windows)
+![Logo](https://skillicons.dev/icons?i=debian,docker,windows)
 
 **Web- und CMS-Tools**
 
