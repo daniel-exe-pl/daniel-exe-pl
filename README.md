@@ -1,4 +1,4 @@
-# daniel-exe.pl  
+# daniel-exe.pl (Daniel)
 ` 🌐 ` **Full-Stack Developer & Software Engineer**
 
 ---
