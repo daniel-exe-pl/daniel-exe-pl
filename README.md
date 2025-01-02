@@ -26,11 +26,6 @@ Engagierter **Full-Stack Developer** und **Software Engineer** mit Erfahrung in 
   - Einsatz moderner Technologien zur Kombination von Realismus und Kreativität.  
   - ` 📂 ` [LifeSync Roleplay Repository](https://github.com/LifeSyncRoleplay)
 
-- **Forgotten Fear (FF)**  
-  - Entwicklung eines storybasierten Horrorgames mit intensiver Atmosphäre und spannender Handlung.
-  - Fokus auf innovative Spielmechaniken und immersives Storytelling.
-  - ` 📂 ` [Forgotten Fear Repository](https://github.com/Forgotten-Fear)
-
 ---
 
 ### ` 🛠️ ` Technologien und Tools:
