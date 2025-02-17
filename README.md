@@ -38,7 +38,7 @@ Engagierter **Full-Stack Developer** und **Software Engineer** mit Erfahrung in 
 
 **Frameworks und Libraries**
 
-![Logo](https://skillicons.dev/icons?i=react,tailwind,prisma,nextjs,nodejs,expressjs,discordjs,bots)
+![Logo](https://skillicons.dev/icons?i=react,prisma,nextjs,nodejs,expressjs,discordjs,bots)
 
 **Datenbanken**
 
