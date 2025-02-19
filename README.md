@@ -20,7 +20,7 @@ Engagierter **Full-Stack Developer** und **Software Engineer** mit Erfahrung in 
   - Leitung einer Plattform zur zentralen Verwaltung und Entwicklung von Softwareprojekten.
   - Ziel ist es, verschiedene Projekte bei der Entwicklung, Optimierung und Vermarktung effizient zu unterstützen.
 
-- **` 📂 ` [Life Roleplay Network (LRN)](https://github.com/Life-Roleplay)**  
+- **` 📂 ` [Life Roleplay Network (LRN)](https://github.com/Life-Roleplay-Network)**  
   - Aufbau eines GTA 6 Roleplay-Servers mit Fokus auf realistische und faire Spielerlebnisse.
   - Einer der ersten deutschsprachigen Roleplay-Server für GTA 6, der innovative Ansätze verfolgt.
 
