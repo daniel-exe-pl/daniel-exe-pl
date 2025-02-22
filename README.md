@@ -32,7 +32,7 @@ Engagierter **Full-Stack Developer** und **Software Engineer** mit Erfahrung in 
 
 ![Blender](https://skillicons.dev/icons?i=blender,figma)
 
-**Programmiersprachen**
+**Programmiersprachen / Markup & Styles**
 
 ![Logo](https://skillicons.dev/icons?i=css,html,js,ts,python,lua,go)
 
