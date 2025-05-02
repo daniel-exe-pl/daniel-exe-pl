@@ -30,7 +30,7 @@ Engagierter **Full-Stack Developer** und **Software Engineer** mit Erfahrung in 
 
 **Cutting & Design**
 
-![Blender](https://skillicons.dev/icons?i=ps,ae,pr,au,xd,ai,figma)
+![Blender](https://skillicons.dev/icons?i=ps,ae,pr,au,ai,figma)
 
 **Programmiersprachen / Markup & Styles**
 
