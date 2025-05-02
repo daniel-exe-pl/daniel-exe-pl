@@ -28,9 +28,9 @@ Engagierter **Full-Stack Developer** und **Software Engineer** mit Erfahrung in 
 
 ### ` 🛠️ ` Technologien und Tools:
 
-**3D und Design**
+**Cutting & Design**
 
-![Blender](https://skillicons.dev/icons?i=blender,figma)
+![Blender](https://skillicons.dev/icons?i=ps,ae,pr,au,xd,ai,figma)
 
 **Programmiersprachen / Markup & Styles**
 
