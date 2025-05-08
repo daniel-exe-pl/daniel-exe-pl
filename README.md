@@ -16,7 +16,7 @@ Engagierter **Full-Stack Developer** und **Software Engineer** mit Erfahrung in 
 ---
 
 ### ` 🗃️ ` Aktuelle Projekte
-- **` 📂 ` [DANIEL NETWORK CENTER (DNC)](https://github.com/DANIEL-NETWORK-CENTER/)**  
+- **` 📂 ` [DANIEL NETWORK CENTER™ (DNC)](https://github.com/DANIEL-NETWORK-CENTER/)**  
   - Leitung einer Plattform zur zentralen Verwaltung und Entwicklung von Softwareprojekten.
   - Ziel ist es, verschiedene Projekte bei der Entwicklung, Optimierung und Vermarktung effizient zu unterstützen.
 
