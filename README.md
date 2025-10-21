@@ -46,7 +46,7 @@ Engagierter **Full-Stack Developer** und **Software Engineer** mit Erfahrung in 
 
 **Entwicklungs-Tools**
 
-![Logo](https://skillicons.dev/icons?i=git,bash,npm,visualstudio,vscode,pycharm,idea)
+![Logo](https://skillicons.dev/icons?i=git,bash,npm,visualstudio,vscode,pycharm,idea,webstorm)
 
 **Betriebssysteme und Plattformen**
 
