@@ -1,77 +1,65 @@
-# daniel-exe.pl (Daniel)
-` 🌐 ` **Full-Stack Developer & Software Engineer**
+# daniel-exe.pl (Daniel)  
+` 🌐 ` **Full-Stack Developer & Software Engineer**  
 
 ---
 
-### ` 👨‍💻 ` Profil
-Engagierter **Full-Stack Developer** und **Software Engineer** mit Erfahrung in der Entwicklung.
+### ` 👨‍💻 ` Profile  
+Dedicated **Full-Stack Developer** and **Software Engineer** with experience in development.  
 
 ---
 
-### ` 🚀 ` Kompetenzen
-- **Web- & Softwareentwicklung**: Umfangreiche Erfahrung mit Backend- und Frontend-Technologien.
-- **Projektmanagement**: Effiziente Planung und Umsetzung von Projekten in agilen Teams.
-- **Technologisches Verständnis**: Fundiertes Wissen über die Integration neuer Technologien und innovativer Ansätze.
+### ` 🚀 ` Skills  
+- **Web & Software Development**: Extensive experience with both backend and frontend technologies.  
+- **Project Management**: Efficient planning and execution of projects.  
+- **Technological Expertise**: Solid knowledge of integrating new technologies and innovative approaches.  
 
 ---
 
-### ` 🗃️ ` Aktuelle Projekte
+### ` 🗃️ ` Current Projects  
 - **` 📂 ` [DANIEL NETWORK CENTER™ (DNC)](https://github.com/DANIEL-NETWORK-CENTER/)**  
-  - Leitung einer Plattform zur zentralen Verwaltung und Entwicklung von Softwareprojekten.
-  - Ziel ist es, verschiedene Projekte bei der Entwicklung, Optimierung und Vermarktung effizient zu unterstützen.
+  - Leading a platform for centralized management and development of software projects.  
+  - Aims to efficiently support various projects in development, optimization, and marketing.  
 
 - **` 📂 ` [Life Roleplay Network℠ (LRN)](https://github.com/Life-Roleplay-Network)**  
-  - Aufbau eines GTA 6 Roleplay-Servers mit Fokus auf realistische und faire Spielerlebnisse.
-  - Einer der ersten deutschsprachigen Roleplay-Server für GTA 6, der innovative Ansätze verfolgt.
+  - Building a GTA 6 Roleplay server focused on realistic and fair player experiences.  
+  - One of the first German-speaking Roleplay servers for GTA 6, pursuing innovative approaches.  
 
 ---
 
-### ` 🛠️ ` Technologien und Tools:
+### ` 🛠️ ` Technologies & Tools  
 
-**Cutting & Design**
+**Cutting & Design**  
 
-![Blender](https://skillicons.dev/icons?i=ps,ae,pr,au,ai,figma)
+![Logo](https://skillicons.dev/icons?i=ps,ae,pr,au,ai,figma)  
 
-**Programmiersprachen / Markup & Styles**
+**Programming Languages / Markup & Styles**  
 
-![Logo](https://skillicons.dev/icons?i=css,html,js,ts,python,lua)
+![Logo](https://skillicons.dev/icons?i=css,html,js,ts,python,lua)  
 
-**Frameworks und Libraries**
+**Frameworks and Libraries**  
 
-![Logo](https://skillicons.dev/icons?i=react,prisma,nextjs,nodejs,expressjs,discordjs,bots)
+![Logo](https://skillicons.dev/icons?i=react,nextjs,nodejs,discordjs,bots)  
 
-**Datenbanken**
+**Databases**  
 
-![Logo](https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite)
+![Logo](https://skillicons.dev/icons?i=postgresql,mysql,sqlite)  
 
-**Entwicklungs-Tools**
+**Development Tools**  
 
-![Logo](https://skillicons.dev/icons?i=git,bash,npm,visualstudio,vscode,pycharm,idea,webstorm)
+![Logo](https://skillicons.dev/icons?i=git,bash,npm,yarn,vscode,pycharm,idea,webstorm)  
 
-**Betriebssysteme und Plattformen**
+**Operating Systems & Platforms**  
 
-![Logo](https://skillicons.dev/icons?i=nginx,debian,docker,windows)
+![Logo](https://skillicons.dev/icons?i=nginx,debian,docker,windows)  
 
-**Web- und CMS-Tools**
+**Game Engines**  
 
-![Logo](https://skillicons.dev/icons?i=wordpress)
-
-**Projekt- und Wissensmanagement**
-
-![Logo](https://skillicons.dev/icons?i=notion,stackoverflow)
-
-**Spezifische Plattformen**
-
-![Logo](https://skillicons.dev/icons?i=github,discord)
-
-**Game Engines**
-
-![Logo](https://skillicons.dev/icons?i=unreal)
+![Logo](https://skillicons.dev/icons?i=unreal)  
 
 ---
 
-### ` 🤝 ` Interesse an einer Zusammenarbeit?
-Ich freue mich auf Anfragen oder Kooperationen!  
-Du kannst mich über diese Kanäle erreichen:  
+### ` 🤝 ` Interested in Collaborating?  
+I’m happy to receive inquiries or collaboration requests!  
+You can reach me through:  
 - ` 📧 ` [Email](mailto:contact@danielnetworkcenter.com)  
-- ` 💬 ` [Discord](http://discord.danielnetworkcenter.com)
+- ` 💬 ` [Discord](http://discord.danielnetworkcenter.com)  
