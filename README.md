@@ -26,7 +26,7 @@ Experienced **Full-Stack Developer & Software Engineer** specializing in creatin
   - Combines immersive gameplay with innovative systems and community-driven features.  
   - One of the first German-language GTA 6 Roleplay servers with an emphasis on player engagement, balance, and quality of experience.
  
-- **` 📂 ` [CCISP (Central Core Infrastructure & Service Platform)](https://danielnetworkcenter.com)**  
+- **` 📂 ` [CCISP (Central Core Infrastructure & Service Platform)](https://github.com/CCISP)**  
   - The **central platform and backbone for all projects of DANIEL NETWORK CENTER**.  
   - Provides the essential infrastructure, core systems, and foundational services that power every project.  
   - Designed to deliver **scalable, reliable, and efficient operations** across the entire ecosystem.  
