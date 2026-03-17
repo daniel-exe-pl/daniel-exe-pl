@@ -21,7 +21,7 @@ Experienced **Full-Stack Developer & Software Engineer** specializing in creatin
   - Provides tools and processes to streamline development, optimize collaboration, and maintain high-quality standards across all projects.  
   - Acts as the core environment for project planning, team coordination, and efficient execution of development workflows.
 
-- **` 📂 ` [Life Roleplay Network℠ (LRN)](https://github.com/Life-Roleplay-Network)**  
+- **` 📂 ` [Life Roleplay Network (LRN)](https://github.com/Life-Roleplay-Network)**  
   - Developing a GTA 6 Roleplay server focused on delivering realistic and fair player experiences.  
   - Combines immersive gameplay with innovative systems and community-driven features.  
   - One of the first German-language GTA 6 Roleplay servers with an emphasis on player engagement, balance, and quality of experience.
