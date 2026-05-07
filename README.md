@@ -45,7 +45,7 @@ Strong interest in **system design, infrastructure, and efficient development wo
 ![Logo](https://skillicons.dev/icons?i=ps,ae,pr,au,ai,figma)  
 
 **Programming Languages / Markup & Styles**  
-![Logo](https://skillicons.dev/icons?i=css,html,js,ts,python,lua)  
+![Logo](https://skillicons.dev/icons?i=css,html,js,ts,lua)  
 
 **Frameworks & Libraries**  
 ![Logo](https://skillicons.dev/icons?i=react,nextjs,nodejs,discordjs,bots)  
@@ -54,7 +54,7 @@ Strong interest in **system design, infrastructure, and efficient development wo
 ![Logo](https://skillicons.dev/icons?i=postgresql,mysql,sqlite)  
 
 **Development Tools**  
-![Logo](https://skillicons.dev/icons?i=git,bash,npm,yarn,vscode,pycharm,idea,webstorm)  
+![Logo](https://skillicons.dev/icons?i=git,npm,yarn,vscode,pycharm,idea,webstorm)  
 
 **Operating Systems & Platforms**  
 ![Logo](https://skillicons.dev/icons?i=nginx,debian,docker,windows)  
