@@ -29,13 +29,25 @@ Strong interest in **system design, infrastructure, and efficient development wo
 - **` 📂 ` [Life Roleplay Network (LRN)](https://github.com/Life-Roleplay-Network)**  
   - GTA 6 Roleplay server with focus on realism, balance, and community-driven systems  
 
-- **` 📂 ` [CCISP (Central Core Infrastructure & Service Platform)](https://github.com/CCISP)**  
+- **` 📂 ` [NetCore](https://github.com/DNC-NetCore)**  
   - Core infrastructure platform powering all DNC projects  
   - Designed for **scalability, reliability, and system-wide integration**  
 
-- **` 📂 ` [NetID](https://danielnetworkcenter.com)**  
+- **` 📂 ` [NetID](https://github.com/DNC-NetID)**  
   - Central authentication and identity platform  
-  - Focus on **security, scalability, and seamless integration**   
+  - Focus on **security, scalability, and seamless integration**
+ 
+- **` 📂 ` [NetLink](https://github.com/DNC-NetLink)**  
+  - Social communication platform for connecting DNC members and communities  
+  - Designed for **networking, conversations, collaboration, and seamless member interaction** 
+
+- **` 📂 ` [NetGuard](https://github.com/DNC-NetGuard)**  
+  - Security and protection platform for monitoring and securing DNC systems  
+  - Focus on **threat detection, access control, and system security**  
+
+- **` 📂 ` [NetCare](https://github.com/DNC-NetCare)**  
+  - Support and service management platform for DNC users and communities  
+  - Built for **efficient support workflows, user assistance, and service reliability**   
 
 ---
 
